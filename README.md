@@ -10,6 +10,8 @@ This is a simple test example of calling the deepseek API from Siliconflow.
 This is a simple test example of how to use api to get response from ollama.
 ### [Example-1-4-simple api of gpt stream.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-4-simple%20api%20of%20gpt%20stream.py)
 This is a simple test example of calling GPT API with streaming output and color display.
+### [Example-1-5-simple api of gpt using post.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-5-simple%20api%20of%20gpt%20using%20post.py)
+This is a simple example of using Python HTTP library to send POST requests to call the GPT API.
 
 ## Prompt Engineering
 ### [Example-2-1-prompt NLU.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-2-1-prompt%20NLU.py)
