@@ -1,4 +1,4 @@
-# This is a simple test example of calling the GPT API.
+This is a simple test example of calling GPT API with streaming output and color display.
 #——————————————————————————————————————————————————————————————————
 # Python environment needs to install python-dotenv openai
 # !pip install python-dotenv openai
