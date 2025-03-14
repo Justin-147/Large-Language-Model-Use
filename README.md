@@ -86,3 +86,5 @@ An example of RAG (Retrieval-Augmented Generation) improving retrieval efficienc
 This is an example that includes some simple tensor operations and demonstrates the use of a GPU to accelerate training.
 ### [Example-O-2-UsePyTorch2.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-O-2-UsePyTorch2.py)
 This is an example of a PyTorch project that is accelerated by a GPU.
+### [Example-O-3-angry_girlfriend_game.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-O-3-angry_girlfriend_game.py)
+A text-based game where you play as a boyfriend trying to apologize to your angry girlfriend.
