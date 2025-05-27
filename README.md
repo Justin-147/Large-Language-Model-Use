@@ -12,6 +12,14 @@ This is a simple test example of how to use api to get response from ollama.
 This is a simple test example of calling GPT API with streaming output and color display.
 ### [Example-1-5-simple api of gpt using post.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-5-simple%20api%20of%20gpt%20using%20post.py)
 This is a simple example of using Python HTTP library to send POST requests to call the GPT API.
+### [Example-1-6-Example-1-6-simple api of dashscope.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-6-simple%20api%20of%20dashscope.py)
+This is a simple sentiment analysis example using dashscope with prompt.
+### [Example-1-7-simple api of multimodal model.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-7-simple%20api%20of%20multimodal%20model.py)
+This is a simple example of using dashscope multimodal model to extract text content from images.
+### [Example-1-8-simple use of web search.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-8-simple%20use%20of%20web%20search.py)
+This is a simple example of of web search using OpenAI compatible API.
+### [Example-1-9-simple use of local model.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-1-9-simple%20use%20of%20local%20model.py)
+This is a simple example of of how to use local model.
 
 ## Prompt Engineering
 ### [Example-2-1-prompt NLU.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-2-1-prompt%20NLU.py)
@@ -54,6 +62,10 @@ An example of implementing multi-table queries using Function Calling.
 Stream Mode Example.
 ### [Example-3-7-functioncalling SQL robot.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-7-functioncalling%20SQL%20robot.py)
 An example of a mobile phone package customer service robot based on Function Calling.
+### [Example-3-8-functioncalling dashscope.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-8-functioncalling%20dashscope.py)
+Simple example of function calling using dashscope to get weather information.
+### [Example-3-9-functioncalling dashscope2.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-3-9-functioncalling%20dashscope2.py)
+Simple example of function calling using dashscope to get database server status.
 
 ## RAG
 ### [Example-4-1-pdf load and split.py](https://github.com/Justin1985-147/Large-Language-Model-Use/blob/main/Example-4-1-pdf%20load%20and%20split.py)
